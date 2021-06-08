@@ -5,4 +5,4 @@ The R script run_analysis.R accomplishes that goal by:
 2. merging all files to one data set.
 3. Give appropriate names to all variables.
 4. Extracts only the measurements on the mean and standard deviation.
-5. Ouputs a tidy data set stored in a text file.
+5. Outputs tidy data set stored in a text file.
